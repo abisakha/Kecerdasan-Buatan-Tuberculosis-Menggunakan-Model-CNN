@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jith4j/Tuberculosis-Classification/blob/main/logo/logo.gif" alt="banner">
+  <img src="https://github.com/abisakha/Kecerdasan-Buatan-Tuberculosis-Menggunakan-Model-CNN/blob/main/p.jpg" alt="banner">
 </p>
 
 # Project Title
