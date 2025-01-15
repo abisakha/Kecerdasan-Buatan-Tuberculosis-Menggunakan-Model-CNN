@@ -11,7 +11,7 @@ from tensorflow.keras.preprocessing import image
 
 @st.cache(allow_output_mutation=True)
 def loading_model():
-    fp = "./model/model.h5"
+    fp = "model.h5"
     model_loader = load_model(fp)
     return model_loader
 
